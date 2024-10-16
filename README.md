@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<div style="text-align: center; margin-bottom: 40px;">
+<div style="text-align: center; margin-bottom: 40px; display: flex; justify-content: center; align-itens: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arielson13&theme=aura_dark&show_icons=true&locale=pt-br&rank_icon=github" alt="GitHub Stats com Rank A++"/>
   </a>
