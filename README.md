@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/)
 
-<div style="display: flex; justify-content: center; padding: 20px">
+<div>
 
 <a href="https://github.com/Arielson13/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Arielson13" />
