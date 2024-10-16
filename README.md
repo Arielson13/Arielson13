@@ -1,4 +1,4 @@
-<h1 style="text-align: center; border: none">Hello!! I am Arielson Sousa Duarte 🖐🏽</h1>
+<h1 style="text-align: center; border: none">Olá!! Eu sou Arielson🖐🏽</h1>
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
@@ -7,6 +7,7 @@
 <div style="display: flex; justify-content: center; padding: 20px">
 
 ![Arielson GitHub stats](https://github-readme-stats.vercel.app/api?username=Arielson13&show_icons=true&theme=dracula)
+[![Arielson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
