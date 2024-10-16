@@ -18,7 +18,8 @@
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" alt="Axios" width="40" height="40"/>
 </div>
 
 ### Backend 🚀
