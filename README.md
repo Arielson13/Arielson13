@@ -14,14 +14,14 @@
 
 <div style="text-align: center; margin-bottom: 40px;">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arielson13&theme=aura_dark&show_icons=true" alt="GitHub Stats"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arielson13&theme=aura_dark&show_icons=true&locale=pt-br" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat" target="_blank">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arielson13&theme=aura_dark&layout=compact&langs_count=8&card_width=320&show_icons=true" alt="Top Languages"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arielson13&theme=aura_dark&layout=compact&langs_count=8&card_width=320&show_icons=true&locale=pt-br" alt="Top Languages"/>
   </a>
 </div>
 
-<h1 style="text-align: center; border: none; font-size: 2em; margin-bottom: 20px;">Technologies I Use Daily 💻✅</h1>
+<h1 style="text-align: center; border: none; font-size: 2em; margin-bottom: 20px;">Tecnologias que uso no dia a dia 💻✅</h1>
 
 <h2 style="text-align: center; font-size: 1.8em; margin-top: 30px;">Frontend 🚀</h2>
 <div style="text-align: center; margin-bottom: 30px;">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-<h2 style="text-align: center; font-size: 1.8em; margin-top: 30px;">Programming Languages 🚀</h2>
+<h2 style="text-align: center; font-size: 1.8em; margin-top: 30px;">Linguagens de Programação 🚀</h2>
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -42,4 +42,3 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React" />
 </div>
-
