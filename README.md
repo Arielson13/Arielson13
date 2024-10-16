@@ -7,10 +7,10 @@
 <div style="display: flex; justify-content: center; padding: 20px">
 
 <a href="https://github.com/Arielson13/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Arielson13" />
 </a>
 <a href="https://github.com/Arielson13/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arielson13&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 </div>
