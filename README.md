@@ -11,6 +11,7 @@
 
 ## Tecnologias que uso no dia a dia 💻✅
 
+
 ### Frontend 🚀
 <div style="display: flex;">
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/>
