@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150em src="https://github-readme-stats.vercel.app/api?username=Arielson13&theme=aura_dark&show_icons=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub"/>
+    <img height=170em src="https://github-readme-stats.vercel.app/api?username=Arielson13&theme=aura_dark&show_icons=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs?username=Arielson13&theme=aura_dark&layout=compact&langs_count=8&card_width=320&show_icons=true&locale=pt-br" alt="Linguagens mais usadas"/>
+    <img height=170em src="https://github-readme-stats.vercel.app/api/top-langs?username=Arielson13&theme=aura_dark&layout=compact&langs_count=8&card_width=320&show_icons=true&locale=pt-br" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
