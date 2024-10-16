@@ -11,7 +11,7 @@
 
 ## Tecnologias que uso no dia a dia 💻✅
 
-### Frontend 🚀
+### Frontend 🚀🌚
 <div style="display: flex;">
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/> &nbsp;&nbsp;
@@ -22,7 +22,7 @@
   <img src="https://cdn.simpleicons.org/axios/5A29E4" alt="Axios" width="40" height="40"/>
 </div>
 
-### Backend 🚀
+### Backend 🚀🌑
 <div style="display: flex;">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" width="40" height="40"/> &nbsp;&nbsp;
