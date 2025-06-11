@@ -28,7 +28,9 @@
   <img src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/prisma/ffffff" alt="MongoDB" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/31648D" alt="MongoDB" width="40" height="40"/>  
 </div>
 
 <br>
