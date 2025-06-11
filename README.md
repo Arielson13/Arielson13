@@ -17,24 +17,32 @@
 
 ### Pilha principal:
 <div style="display: flex;">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/axios/5A29E4" alt="Axios" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/prisma/ffffff" alt="MongoDB" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
 </div>
 
-### Backend 🚀🌑
+### Bancos:
 <div style="display: flex;">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/31648D" alt="MongoDB" width="40" height="40"/>  
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+</div>
+
+### Ferramentas de estação de trabalho:
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </div>
 
 <br>
