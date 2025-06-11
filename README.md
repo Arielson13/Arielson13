@@ -16,7 +16,7 @@
 ## Minhas habilidades
 
 <div align="center">
-  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="460px" height="400" />
+  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="470px" height="400" />
 </div>
 
 ### Pilha principal:
