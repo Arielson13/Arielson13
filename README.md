@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFgXwGernYUsg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729257074452?e=1755129600&v=beta&t=SnHfxoM9pOXW9ESTdhuSnWKj7VVQjRcA9eyZsXOkfjY"/>
+</div>
+
 # Olá!! Eu sou Arielson 🖐🏽
 
 <div align="center">
@@ -9,9 +13,9 @@
   </a>
 </div>
 
-## Tecnologias que uso no dia a dia 💻✅
+## Minhas habilidades
 
-### Frontend 🚀🌚
+### Pilha principal:
 <div style="display: flex;">
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/> &nbsp;&nbsp;
@@ -20,15 +24,15 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/axios/5A29E4" alt="Axios" width="40" height="40"/>
-</div>
-
-### Backend 🚀🌑
-<div style="display: flex;">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express/000000" alt="Express" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/prisma/ffffff" alt="MongoDB" width="40" height="40"/> &nbsp;&nbsp;
+</div>
+
+### Backend 🚀🌑
+<div style="display: flex;">
   <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/31648D" alt="MongoDB" width="40" height="40"/>  
 </div>
