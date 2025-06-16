@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFgXwGernYUsg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729257074452?e=1755129600&v=beta&t=SnHfxoM9pOXW9ESTdhuSnWKj7VVQjRcA9eyZsXOkfjY"/>
+  <img src="https://github.com/Arielson13/Preview/blob/main/image/computer-illustration.png"/>
 </div>
 
 # Olá!! Eu sou Arielson 🖐🏽
