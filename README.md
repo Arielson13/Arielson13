@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHpWm_r_6HuEQ/profile-displaybackgroundimage-shrink_350_1400/B4DZdhtk41HkAY-/0/1749691028977?e=1755734400&v=beta&t=FtG8bLblGOO27ZH4xT0slgQUkArwhgLQXIk5O5Q4owE"/>
-</div>
-
 # Olá!! Eu sou Arielson 🖐🏽
 
 <div align="center">
