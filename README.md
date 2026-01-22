@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hey Everyone, I'm Arielson</h1>
+<h1 align="center">👋 Olá, eu sou Arielson</h1>
 
 <p align="center">
-  <b>Software Developer • Full Stack • Architect Mindset</b>
+  <b>Desenvolvedor de Software • Full Stack</b>
 </p>
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
 - 💻 Building scalable and well-architected applications  
 - 🧠 Strong focus on clean architecture and best practices  
@@ -15,22 +15,24 @@
 ## 🛠️ Tech Stack
 
 ### 💡 Frontend
-![React](https://img.shields.io/badge/-React-0d1117?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-0d1117?style=flat&logo=tailwindcss)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)](#)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-0d1117?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat&logo=mongodb)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 ![JWT](https://img.shields.io/badge/-JWT-0d1117?style=flat&logo=jsonwebtokens)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
-### 🤖 AI & Automation
-![OpenAI](https://img.shields.io/badge/-OpenAI-0d1117?style=flat&logo=openai)
+### 🤖 AI & Automação
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 ![n8n](https://img.shields.io/badge/-n8n-0d1117?style=flat&logo=n8n)
 
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img width="730em" src="https://github-readme-activity-graph.vercel.app/graph?username=Arielson13&theme=github-dark&hide_border=true&bg_color=0d1117&line=2ea043&point=2ea043&area=true&radius=20" />
@@ -39,25 +41,22 @@
 </p>
 
 
-## 🌐 Connect With Me
+## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=flat&logo=gmail" />
+  <a href="mailto:arielson.duarte.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/arielson-sousa-duarte-4a3a28197/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=flat&logo=instagram" />
-  </a>
-  <a href="https://wa.me/SEU_NUMERO">
-    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=flat&logo=whatsapp" />
+  <a href="https://wa.me/(99)99187-4103">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Code with purpose. Build with vision."</i>
+  <i>"Codifique com propósito. Construa com visão."</i>
 </p>
